@@ -3,7 +3,7 @@ But please, call me Thomas. It's what everyone calls me.
 
 I'm currently a student at Hogeschool windesheim.
 
-I have a website. It's awful at the moment. <fomks.nl>
+I have a website. It's awful at the moment. <http://fomks.nl>
 
 <!--
 **FOXTetsuo/FOXTetsuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

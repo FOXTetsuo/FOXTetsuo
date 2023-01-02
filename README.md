@@ -1,5 +1,6 @@
 ### Welcome to the Git page of FOXTetsuo. 
 ... But please, call me Thomas. It's what everyone calls me.
+<br/><br/>
 I have a website. It's awful at the moment, but I assure you it's still much more enjoyable than a text file: [fomks.nl](http://fomks.nl)
 <br/><br/>
 I'm currently a student at Hogeschool windesheim. Here is a list of things I've done in order from least to most impressive:
@@ -11,7 +12,7 @@ I'm currently a student at Hogeschool windesheim. Here is a list of things I've 
 - A website with cool rotating / flotating leaves (Christmas holidays after semester 3)
 - Filled in this readme
 
-If you want to contact me about any of these projects, good luck.
+If you want to contact me about any of these projects, feel free to send me a handwritten letter by pigeon mail.
 <!--
 **FOXTetsuo/FOXTetsuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

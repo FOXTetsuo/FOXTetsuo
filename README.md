@@ -3,7 +3,6 @@ But please, call me Thomas. It's what everyone calls me.
 I have a website. It's awful at the moment, but I assure you it's still much more enjoyable than a text file: [fomks.nl](http://fomks.nl)
 <br/><br/>
 I'm currently a student at Hogeschool windesheim. Here I've learnt to do the following. in order from least to most impressive:
-<br/><br/>
 - Making very basic websites with CSS, HTML & PHP (Semester 1)
 - Regret ever taking robotics (Semester 2)
 - Create two .Net applications. (Semester 3)

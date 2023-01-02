@@ -1,7 +1,9 @@
 ### Welcome to the Git repo of FOXTetsuo. 
 But please, call me Thomas. It's what everyone calls me.
 
+
 I'm currently a student at Hogeschool windesheim.
+
 
 I have a website. It's awful at the moment. <http://fomks.nl>
 

@@ -1,5 +1,5 @@
-### Welcome to the Git repo of FOXTetsuo. 
-But please, call me Thomas. It's what everyone calls me.
+### Welcome to the Git page of FOXTetsuo. 
+... But please, call me Thomas. It's what everyone calls me.
 I have a website. It's awful at the moment, but I assure you it's still much more enjoyable than a text file: [fomks.nl](http://fomks.nl)
 <br/><br/>
 I'm currently a student at Hogeschool windesheim. Here is a list of things I've done in order from least to most impressive:

@@ -1,12 +1,18 @@
 ### Welcome to the Git repo of FOXTetsuo. 
 But please, call me Thomas. It's what everyone calls me.
+I have a website. It's awful at the moment, but I assure you it's still much more enjoyable than a text file: [fomks.nl](http://fomks.nl)
+<br/><br/>
+I'm currently a student at Hogeschool windesheim. Here I've learnt to do the following. in order from least to most impressive:
+<br/><br/>
+- Making very basic websites with CSS, HTML & PHP (Semester 1)
+- Regret ever taking robotics (Semester 2)
+- Create two .Net applications. (Semester 3)
+  - A WPF app that simulates a race between 2-~3000 inklings.
+  - A MAUI app where customers can completely customize orders. (KBS Group project)
+- Make a website with cool rotating / flotating leaves (Christmas holidays after semester 3)
+- Fill in this readme
 
-
-I'm currently a student at Hogeschool windesheim.
-
-
-I have a website. It's awful at the moment. <http://fomks.nl>
-
+If you want to contact me about any of these projects, good luck.
 <!--
 **FOXTetsuo/FOXTetsuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

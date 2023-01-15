@@ -7,7 +7,7 @@ I'm currently a student at Hogeschool windesheim. Here is a list of things I've 
 - Made very basic websites with CSS, HTML & PHP (Semester 1)
 - Regretted ever taking robotics (Semester 2)
 - Two different .NET applications. (Semester 3)
-  - A WPF app that simulates a race between 2-~3000 inklings.
+  - A WPF app that simulates a race between 2-however many inklings you can handle.
   - A MAUI app where customers can completely customize orders. (KBS Group project)
 - A website with cool rotating / flotating leaves (Christmas holidays after semester 3)
 - Filled in this readme

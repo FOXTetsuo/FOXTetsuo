@@ -11,6 +11,10 @@ I'm currently a student at Hogeschool windesheim. Here is a list of things I've 
   - A MAUI app where customers can completely customize orders. (KBS Group project)
 - A website with cool rotating / flotating leaves (Christmas holidays after semester 3)
 - Filled in this readme
+- Went to Japan for half a year (which was amazing)
+- Did an internship at Print.com
+- Got my bachelor's in software engineering
+- Met the love of my life
 
 If you want to contact me about any of these projects, feel free to send me a handwritten letter by pigeon mail.
 <!--

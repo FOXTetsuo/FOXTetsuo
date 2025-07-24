@@ -3,7 +3,7 @@
 <br/><br/>
 I have a website. It's awful at the moment, but I assure you it's still much more enjoyable than a text file: [fomks.nl](http://fomks.nl)
 <br/><br/>
-I'm currently a student at Hogeschool windesheim. Here is a list of things I've done in order from least to most impressive:
+I am no longer a student at Hogeschool Windesheim. (I have graduated!) Here is a list of things I've done in order from least to most impressive:
 - Made very basic websites with CSS, HTML & PHP (Semester 1)
 - Regretted ever taking robotics (Semester 2)
 - Two different .NET applications. (Semester 3)
@@ -14,6 +14,8 @@ I'm currently a student at Hogeschool windesheim. Here is a list of things I've 
 - Went to Japan for half a year (which was amazing)
 - Did an internship at Print.com
 - Got my bachelor's in software engineering
+- Started working in a pretty cool software company
+- Made my own text-game for windows 95
 - Met the love of my life
 
 If you want to contact me about any of these projects, feel free to send me a handwritten letter by pigeon mail.
